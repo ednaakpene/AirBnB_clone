@@ -8,7 +8,9 @@ The command interpreter serves as the main interface for interacting with the Ai
 
 ### How to start the command line Interpreter
 Step 1: Clone the repository to your local machine
+
 Step 2: Navigate to the project directory
+
 Step 3: Run the command interpreter
 
 ### How to Use the Command Line Interpreter
